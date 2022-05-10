@@ -1,2 +1,2 @@
-# React-TypeScript-basic
+# React-TypeScript
 Created with CodeSandbox
